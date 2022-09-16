@@ -6,7 +6,7 @@
   
 ##  what I'm learning?
 -PLC  
--Digital twin
+-Digital twin  
 -Ai control
 
 
