@@ -1,4 +1,4 @@
-![header](https://SungWoon.vercel.app/api?
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeungWoon&fontSize=90)
 # Hi, there!
 #### Welcome to my page  
 #### I'm Seung Woon Lee, newbie coder from South Korea XD
