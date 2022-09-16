@@ -11,4 +11,4 @@
 
 **Current my experience**
 ![image description](http://kldp.org/files/vi-vim-cheat-sheet-ko.png)
-Click [here](https://kldp.org/node/102947)
+Click [the source of the image](https://kldp.org/node/102947)
