@@ -10,4 +10,4 @@
 -Ai control
 
 ##Current my experience
-![image description](https://www.youtube.com/watch?v=kMEb_BzyUqk)
+![image description](http://kldp.org/files/vi-vim-cheat-sheet-ko.png)
