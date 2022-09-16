@@ -5,9 +5,9 @@
   
   
 ##  what I'm learning?
-*PLC  
-*Digital twin
-*Ai control
+-PLC  
+-Digital twin
+-Ai control
 
 
 | Number | Name |
