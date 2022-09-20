@@ -5,9 +5,9 @@
   
   
 ##  what I'm learning?
--PLC  
--Digital twin  
--Ai control
+-Melsec plc 
+-NX  
+-Python
 
 My current experience    
 ![image description](http://kldp.org/files/vi-vim-cheat-sheet-ko.png)
