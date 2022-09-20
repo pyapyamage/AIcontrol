@@ -16,5 +16,6 @@ Click [the source of the image](https://kldp.org/node/102947)
 |`Sr.No.`|`Funtion & Description`|
 |:--|--|
 |1|int(x [,base]) - *Converts x to a integer. The base specifies the base if x is a string.*|
-|2|float(x) - Converts x to a floating-pointnumber.|
+|2|float(x) - *Converts x to a floating-pointnumber.*|
+|3|complex(real [,imag]) - *Creates a complex number.*|
    
