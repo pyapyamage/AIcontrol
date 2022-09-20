@@ -6,7 +6,7 @@
   
 ##  what I'm learning?
 -Melsec plc 
--NX  
+-NX    
 -Python
 
 My current experience    
