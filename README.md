@@ -13,5 +13,6 @@
 ![image description](http://kldp.org/files/vi-vim-cheat-sheet-ko.png)
 Click [the source of the image](https://kldp.org/node/102947)  
 
-|Sr.No.|Funtion & Description|
+|:Sr.No.|Funtion & Description|
 |--|--|
+|1|*int(x [,base])|
