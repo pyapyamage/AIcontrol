@@ -32,4 +32,5 @@ Click [the source of the image](https://kldp.org/node/102947)
 |15|hex(x) - *Converts an integer to a hexadecimal string.*|
 |16|oct(x) - *Converts an integer to an octal string.*|
 
+
    
