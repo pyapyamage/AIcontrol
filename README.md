@@ -32,7 +32,7 @@ Click [the source of the image](https://kldp.org/node/102947)
 |15|hex(x) - *Converts an integer to a hexadecimal string.*|
 |16|oct(x) - *Converts an integer to an octal string.*|
 
-# 손가락 각도 인식
+# -손가락 각도 인식-
    
    손의 좌표를 [mediapipe](https://google.github.io/mediapipe/) 모듈로 손의 마디를 좌표로 인식한후  
 인공지능(AI)으로 학습시켜서 램프를 키는 프로젝트입니다.
@@ -41,7 +41,7 @@ Click [the source of the image](https://kldp.org/node/102947)
 
 * [gesture-recognition by kairess](https://github.com/kairess/gesture-recognition)
 
-## 프로젝트 실행 과정
+# 1. 프로젝트 실행 과정
 
 학습
 1. 데이터셋.py 를 실행시킨후 웹캠으로 0도 90도 180도에 대한 데이터셋을 만듭니다.
@@ -53,7 +53,7 @@ Click [the source of the image](https://kldp.org/node/102947)
 <img src="https://github.com/LETAUK/AIControlE/blob/main/img/90s.JPG" width="300" height="200">
 <img src="https://github.com/LETAUK/AIControlE/blob/main/img/180s.JPG" width="300" height="200">
 
-## 각 구성파일의 역할
+# 2. 각 구성파일의 역할
 
 |파일명|설명|
 |------|---|
@@ -64,7 +64,7 @@ Click [the source of the image](https://kldp.org/node/102947)
 |머신러닝.ipynb|AI학습을 시키는파일입니다|
 |실행.py|AI를 실행시키는 파일입니다|
 
-# 한계
+# 3. 한계
 
 * 손의 여러가지 각도는 인식이 되지 않는다  
 * 검지손가락 이외의 손가락으로 가리킬시 손가락인식이 불가능하다
