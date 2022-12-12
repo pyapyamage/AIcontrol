@@ -32,7 +32,7 @@ Click [the source of the image](https://kldp.org/node/102947)
 |15|hex(x) - *Converts an integer to a hexadecimal string.*|
 |16|oct(x) - *Converts an integer to an octal string.*|
 
-
+# <손가락 각도 인식>
    
    손의 좌표를 [mediapipe](https://google.github.io/mediapipe/) 모듈로 손의 마디를 좌표로 인식한후  
 인공지능(AI)으로 학습시켜서 램프를 키는 프로젝트입니다.
