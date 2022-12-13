@@ -50,6 +50,8 @@ Click [the source of the image](https://kldp.org/node/102947)
 * tensorflow
 * keras
 
+![image description](https://github.com/pyapyamage/AIcontrol/blob/main/%EC%82%AC%EC%A7%842.JPG)
+
 # 1. 프로젝트 실행 과정
 
 학습
