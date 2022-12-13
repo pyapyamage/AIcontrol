@@ -81,7 +81,7 @@ Click [the source of the image](https://kldp.org/node/102947)
 
 # 손각도계산
 ![image description](https://github.com/pyapyamage/AIcontrol/blob/main/%EC%82%AC%EC%A7%842.JPG)  
-검지손가락 시작마디와 끝마디를 계산하여 180도와 0도의 정확성을 올려주었습니다
 ![image description](https://github.com/pyapyamage/AIcontrol/blob/main/%EC%82%AC%EC%A7%843.png)  
+검지손가락 시작마디와 끝마디를 계산하여 180도와 0도의 정확성을 올려주었습니다  
 
 [![Video Label](http://img.youtube.com/vi/MV3SJdUArbw/0.jpg)](https://www.youtube.com/watch?v=MV3SJdUArbw)
