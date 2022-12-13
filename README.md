@@ -50,6 +50,7 @@ Click [the source of the image](https://kldp.org/node/102947)
 * tensorflow
 * keras
 
+# 손각도계산
 ![image description](https://github.com/pyapyamage/AIcontrol/blob/main/%EC%82%AC%EC%A7%842.JPG)
 
 # 1. 프로젝트 실행 과정
@@ -81,4 +82,3 @@ Click [the source of the image](https://kldp.org/node/102947)
 * 검지손가락 이외의 손가락으로 가리킬시 손가락인식이 불가능하다
 
 [![Video Label](http://img.youtube.com/vi/MV3SJdUArbw/0.jpg)](https://www.youtube.com/watch?v=MV3SJdUArbw)
-
