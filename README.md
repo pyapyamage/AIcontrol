@@ -70,5 +70,5 @@ Click [the source of the image](https://kldp.org/node/102947)
 * 검지손가락 이외의 손가락으로 가리킬시 손가락인식이 불가능하다
 
 [![Video Label](http://img.youtube.com/vi/MV3SJdUArbw/0.jpg)](https://www.youtube.com/watch?v=MV3SJdUArbw)
-<iframe width="806" height="453" src="https://www.youtube.com/embed/MV3SJdUArbw" title="과제" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
